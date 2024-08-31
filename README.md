@@ -14,7 +14,7 @@ License
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/flappy-bird-neat.git
+git clone https://github.com/your-username/Flappy-Bird-Neat.git
 cd flappy-bird-neat
 
 Set up a Python virtual environment (optional but recommended):
